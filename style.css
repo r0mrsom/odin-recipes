@@ -1,0 +1,96 @@
+body {
+    background: #eee;
+    font-family: sans-serif;
+}
+
+.container {
+    background: white;
+    width: 500px;
+    margin: 16px auto;
+    padding: 20px;
+}
+
+.container h1 {
+    background: skyblue;
+    margin-bottom: 8px;
+    padding: 10px;
+    text-align: center;
+}
+
+.container img {
+    display: block;
+    margin: 0 auto;
+}
+
+p {
+    background: lightgray;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+
+ul.menu {
+    background: skyblue;
+    padding: 10px;
+}
+
+ul.menu li{
+    margin: 8px;
+    background-color: white;
+    padding: 8px;
+    list-style-type: none;
+    text-align: center;
+
+}
+
+h3 {
+    background: skyblue;
+    padding: 10px;
+    text-align: center;
+}
+
+ul.ingredients {
+    background-color: lightgray;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+
+ul.ingredients li{
+    margin: 8px;
+    background-color: white;
+    padding: 10px;
+    list-style-type: none;
+    text-align: center;
+}
+
+ol {
+    background-color: lightgray;
+    padding: 10px;
+    margin-bottom: 40px;
+}
+
+ol li{
+    margin: 8px;
+    background-color: white;
+    padding: 10px;
+    list-style-type: none;
+    text-align: left;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+.home {
+    display: block;
+    background-color: gray;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 12px;
+    margin: 0 auto;
+}
